@@ -20,7 +20,7 @@ The dissertation explores cryptocurrency adoption through the lens of currency s
 📁 Data                                   - Raw or minimally processed datasets used in analysis (credit provided in dissertation)
 📁 Papers                                 - Related academic or source papers referenced, where PDF is available
 
-Please note the official submission files were not included due to privacy concerns relating to the signature. These files were submitted to HSLU separately. This also means that this version of the thesis does not contain the declaration or originality and use of GenAI attached in the official submitted version. Please also note the name of the "Vayloyan Alec_Appendix" PDF (list of keywords) was changed to "Vayloyan Alec_Keywords" as the folder was not allowing the same name, even with different capitalization.
+Please note the official submission files were not included due to privacy concerns relating to the signature. These files were submitted to HSLU separately. This also means that this version of the thesis does not contain the declaration or originality and use of GenAI attached in the official submitted version.
 
 
 --Author--  
