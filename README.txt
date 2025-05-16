@@ -10,8 +10,8 @@ The dissertation explores cryptocurrency adoption through the lens of currency s
 
 --Repository Structure--
 
-📄 Vayloyan Alec Dissertation.pdf         - Compiled PDF for reading
-📄 Vayloyan Alec Dissertation.Rmd         - R Markdown file (primary source)  
+📄 Vayloyan-Alec-Dissertation.pdf         - Compiled PDF for reading
+📄 Vayloyan-Alec-Dissertation.Rmd         - R Markdown file (primary source)  
 📄 Vayloyan-Alec-Dissertation.tex         - LaTeX version of the dissertation  
 📝 readme                                 - Overview of folder and files
 📄 .Rhistory                              - RStudio  history 
@@ -40,5 +40,5 @@ To compile and work with the RMarkdown:
 
 Instructions  
 1. Clone or download the repository.  
-2. Open 'Vayloyan Alec Dissertation.Rmd' in RStudio to view/edit the R Markdown source.  
+2. Open 'Vayloyan-Alec-Dissertation.Rmd' in RStudio to view/edit the R Markdown source.  
 3. To compile, knit to pdf2.  
