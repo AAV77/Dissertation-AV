@@ -40,5 +40,6 @@ To compile and work with the RMarkdown:
 
 Instructions  
 1. Clone or download the repository.  
-2. Open 'Vayloyan-Alec-Dissertation.Rmd' in RStudio to view/edit the R Markdown source.  
-3. To compile, knit to pdf2.  
+2. Open 'Vayloyan-Alec-Dissertation.Rmd' in RStudio to view/edit the R Markdown source.
+3. Set the working directory  
+4. To compile, knit to pdf2.  
